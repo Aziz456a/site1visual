@@ -1,0 +1,12 @@
+C:\Users\Aziz\source\repos\site.BL\bin\Debug\net7.0\site.BL.deps.json
+C:\Users\Aziz\source\repos\site.BL\bin\Debug\net7.0\site.BL.dll
+C:\Users\Aziz\source\repos\site.BL\bin\Debug\net7.0\site.BL.pdb
+C:\Users\Aziz\source\repos\site.BL\obj\Debug\net7.0\site.BL.csproj.AssemblyReference.cache
+C:\Users\Aziz\source\repos\site.BL\obj\Debug\net7.0\site.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aziz\source\repos\site.BL\obj\Debug\net7.0\site.BL.AssemblyInfoInputs.cache
+C:\Users\Aziz\source\repos\site.BL\obj\Debug\net7.0\site.BL.AssemblyInfo.cs
+C:\Users\Aziz\source\repos\site.BL\obj\Debug\net7.0\site.BL.csproj.CoreCompileInputs.cache
+C:\Users\Aziz\source\repos\site.BL\obj\Debug\net7.0\site.BL.dll
+C:\Users\Aziz\source\repos\site.BL\obj\Debug\net7.0\refint\site.BL.dll
+C:\Users\Aziz\source\repos\site.BL\obj\Debug\net7.0\site.BL.pdb
+C:\Users\Aziz\source\repos\site.BL\obj\Debug\net7.0\ref\site.BL.dll
